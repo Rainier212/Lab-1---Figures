@@ -43,3 +43,10 @@ to those ones in this project. That class (named "Picture") uses the shapes
 to draw a picture. It can be used to experiment with coding.
 
 Hello, I've edited the README file by adding this sentence! Rainier was here! :)
+
+Answers to questions given:
+-The private int yPosition goes up from 90 to 130. 
+-It makes the object invisible.
+-When I tried to enter the color turquoise, it gave the color black.
+-It gives me the following, Error: cannot find symbol- variable red. Also, the color doesn't change to the color I entered.
+-To create my house and sun image, I had to add 2 squares, 1 triangle and a circle. Then I changed the colors of some of my shapes. After that I moved my objects, using the moveLeft/Right method, in different areas to create my house. I also changed the shape of the triangle to make a perfect roof, and I made one big square for the building's base and a smaller one for the window. It could be done in different ways such as using the moveHorizontal/Vertical methods to have a more precise way of moving the objects.
